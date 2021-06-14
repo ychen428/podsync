@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Yuting Chen: Podsync</title>
+    <link>https://youtube.com/playlist?list=PLkD24uKFtrEt8e09hEJGG2YPYZRy9v8t0</link>
+    <description>Yuting Chen: Podsync (2021-06-12 02:55:37 +0000 UTC)</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jun 2021 17:28:46 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Jun 2021 02:55:37 +0000</pubDate>
+    <image>
+      <url>https://i.ytimg.com/vi/g_2SlqF0kA0/default.jpg</url>
+      <title>Yuting Chen: Podsync</title>
+      <link>https://youtube.com/playlist?list=PLkD24uKFtrEt8e09hEJGG2YPYZRy9v8t0</link>
+    </image>
+    <itunes:author>Yuting Chen: Podsync</itunes:author>
+    <itunes:subtitle>Yuting Chen: Podsync</itunes:subtitle>
+    <itunes:summary><![CDATA[Yuting Chen: Podsync (2021-06-12 02:55:37 +0000 UTC)]]></itunes:summary>
+    <itunes:image href="https://i.ytimg.com/vi/g_2SlqF0kA0/default.jpg"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>9ByI9WeXp9g</guid>
+      <title>Curb Your Perceived Intelligence</title>
+      <link>https://youtube.com/watch?v=9ByI9WeXp9g</link>
+      <description>walk softer and carry a bigger stick&#xA;&#xA;Link to original video: https://www.youtube.com/watch?v=RAlI0pbMQiM</description>
+      <pubDate>Mon, 14 Jun 2021 17:26:54 +0000</pubDate>
+      <enclosure url="http://localhost:8080/listen_later/9ByI9WeXp9g.mp3" length="733389" type="audio/mpeg"></enclosure>
+      <itunes:author>Yuting Chen: Podsync</itunes:author>
+      <itunes:subtitle>Curb Your Perceived Intelligence</itunes:subtitle>
+      <itunes:summary><![CDATA[walk softer and carry a bigger stick
+
+Link to original video: https://www.youtube.com/watch?v=RAlI0pbMQiM]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/9ByI9WeXp9g/default.jpg"></itunes:image>
+      <itunes:duration>0:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
+      <guid>g_2SlqF0kA0</guid>
+      <title>The World&#39;s Only Airport Where The Runway Is A Beach</title>
+      <link>https://youtube.com/watch?v=g_2SlqF0kA0</link>
+      <description>Barra Airport, in Na h-Eileanan Siar in the west of Scotland, is unique: it&#39;s the only commercial airport where the runway&#39;s made of sand, and tide covers it up twice a day. Here&#39;s how it works.&#xA;&#xA;Thanks to all the team at Barra Airport: https://www.hial.co.uk/barra-airport&#xA;&#xA;I chartered with Hebridean Air Services from Oban: https://www.hebrideanair.co.uk/&#xA;&#xA;Scheduled flights are available with Loganair: https://www.loganair.co.uk/&#xA;&#xA;Editor: Michelle Martin (@mrsmmartin)&#xA;Location fixer: Vikki McCraw from Locations 365 http://locations365.co.uk&#xA;&#xA;Filmed safely: https://www.tomscott.com/safe/&#xA;&#xA;I&#39;m at https://tomscott.com&#xD;&#xA;on Twitter at https://twitter.com/tomscott&#xD;&#xA;on Facebook at https://facebook.com/tomscott&#xD;&#xA;and on Instagram as tomscottgo</description>
+      <pubDate>Mon, 14 Jun 2021 17:25:53 +0000</pubDate>
+      <enclosure url="http://localhost:8080/listen_later/g_2SlqF0kA0.mp3" length="2619261" type="audio/mpeg"></enclosure>
+      <itunes:author>Yuting Chen: Podsync</itunes:author>
+      <itunes:subtitle>The World&#39;s Only Airport Where The Runway Is A Beach</itunes:subtitle>
+      <itunes:summary><![CDATA[Barra Airport, in Na h-Eileanan Siar in the west of Scotland, is unique: it's the only commercial airport where the runway's made of sand, and tide covers it up twice a day. Here's how it works.
+
+Thanks to all the team at Barra Airport: https://www.hial.co.uk/barra-airport
+
+I chartered with Hebridean Air Services from Oban: https://www.hebrideanair.co.uk/
+
+Scheduled flights are available with Loganair: https://www.loganair.co.uk/
+
+Editor: Michelle Martin (@mrsmmartin)
+Location fixer: Vikki McCraw from Locations 365 http://locations365.co.uk
+
+Filmed safely: https://www.tomscott.com/safe/
+
+I'm at https://tomscott.com
+on Twitter at https://twitter.com/tomscott
+on Facebook at https://facebook.com/tomscott
+and on Instagram as tomscottgo]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/g_2SlqF0kA0/default.jpg"></itunes:image>
+      <itunes:duration>4:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>2</itunes:order>
+    </item>
+  </channel>
+</rss>
