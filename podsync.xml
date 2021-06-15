@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Yuting Chen: Podsync</title>
+    <link>https://youtube.com/playlist?list=PLkD24uKFtrEt8e09hEJGG2YPYZRy9v8t0</link>
+    <description>Yuting Chen: Podsync (2021-06-12 02:55:37 +0000 UTC)</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jun 2021 14:15:52 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Jun 2021 02:55:37 +0000</pubDate>
+    <image>
+      <url>https://i.ytimg.com/vi/UhQvuyjaJOI/default.jpg</url>
+      <title>Yuting Chen: Podsync</title>
+      <link>https://youtube.com/playlist?list=PLkD24uKFtrEt8e09hEJGG2YPYZRy9v8t0</link>
+    </image>
+    <itunes:author>Yuting Chen: Podsync</itunes:author>
+    <itunes:subtitle>Yuting Chen: Podsync</itunes:subtitle>
+    <itunes:summary><![CDATA[Yuting Chen: Podsync (2021-06-12 02:55:37 +0000 UTC)]]></itunes:summary>
+    <itunes:image href="https://i.ytimg.com/vi/UhQvuyjaJOI/default.jpg"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>HkRjIq8Cp2A</guid>
+      <title>The Bizarre Case of Stephen McDaniel</title>
+      <link>https://youtube.com/watch?v=HkRjIq8Cp2A</link>
+      <description>&#34;Why Stephen… Why?&#34;&#xA;TRUE CRIME Loser - https://www.youtube.com/c/TRUECRIMELoser&#xA;Narrator - https://www.youtube.com/user/kizzume</description>
+      <pubDate>Tue, 15 Jun 2021 01:22:24 +0000</pubDate>
+      <enclosure url="https://ychen428.github.io/podsync/podsync/HkRjIq8Cp2A.mp3" length="19809621" type="audio/mpeg"></enclosure>
+      <itunes:author>Yuting Chen: Podsync</itunes:author>
+      <itunes:subtitle>The Bizarre Case of Stephen McDaniel</itunes:subtitle>
+      <itunes:summary><![CDATA["Why Stephen… Why?"
+TRUE CRIME Loser - https://www.youtube.com/c/TRUECRIMELoser
+Narrator - https://www.youtube.com/user/kizzume]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/HkRjIq8Cp2A/default.jpg"></itunes:image>
+      <itunes:duration>36:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>2</itunes:order>
+    </item>
+    <item>
+      <guid>UhQvuyjaJOI</guid>
+      <title>Bitcoin series intro</title>
+      <link>https://youtube.com/watch?v=UhQvuyjaJOI</link>
+      <description>This is the 70th episode of the privacy guides series.&#xA;&#xA;In this episode, we layout content of Bitcoin series.&#xA;&#xA;==============================&#xA;SUGGESTED&#xA;==============================&#xA;videos.kZ4NHz-gjLo&#xA;&#xA;==============================&#xA;LINKS&#xA;==============================&#xA;Shakepay 👉 https://shakepay.com/&#xA;Get in touch for consulting 👉 https://sunknudsen.com/contact&#xA;&#xA;==============================&#xA;CHANGE LOG&#xA;==============================&#xA;Please report bad actors in comments using hamburger menu.&#xA;&#xA;==============================&#xA;SUPPORT&#xA;==============================&#xA;Support the privacy guides 👉 https://sunknudsen.com/donate</description>
+      <pubDate>Mon, 14 Jun 2021 22:49:35 +0000</pubDate>
+      <enclosure url="https://ychen428.github.io/podsync/podsync/UhQvuyjaJOI.mp3" length="6956085" type="audio/mpeg"></enclosure>
+      <itunes:author>Yuting Chen: Podsync</itunes:author>
+      <itunes:subtitle>Bitcoin series intro</itunes:subtitle>
+      <itunes:summary><![CDATA[This is the 70th episode of the privacy guides series.
+
+In this episode, we layout content of Bitcoin series.
+
+==============================
+SUGGESTED
+==============================
+videos.kZ4NHz-gjLo
+
+==============================
+LINKS
+==============================
+Shakepay 👉 https://shakepay.com/
+Get in touch for consulting 👉 https://sunknudsen.com/contact
+
+==============================
+CHANGE LOG
+==============================
+Please report bad actors in comments using hamburger menu.
+
+==============================
+SUPPORT
+==============================
+Support the privacy guides 👉 https://sunknudsen.com/donate]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/UhQvuyjaJOI/default.jpg"></itunes:image>
+      <itunes:duration>11:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>3</itunes:order>
+    </item>
+  </channel>
+</rss>
