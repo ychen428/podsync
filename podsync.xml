@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jun 2021 14:15:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 14:40:20 +0000</lastBuildDate>
     <pubDate>Sat, 12 Jun 2021 02:55:37 +0000</pubDate>
     <image>
       <url>https://i.ytimg.com/vi/UhQvuyjaJOI/default.jpg</url>
@@ -20,6 +20,27 @@
     <itunes:image href="https://i.ytimg.com/vi/UhQvuyjaJOI/default.jpg"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>F8orsIP0bCQ</guid>
+      <title>The Case of Andy B.</title>
+      <link>https://youtube.com/watch?v=F8orsIP0bCQ</link>
+      <description>“I’m glad to be getting out of this place.”&#xA;To hear the other side - https://www.dinkhellermovie.com&#xA;Narrator - https://www.youtube.com/user/kizzume&#xA;*Music* &#xA;Intro - https://youtu.be/oLRNzEJr_MY &#xA;Outro - https://youtu.be/QJEXLz8gBR0&#xA;Jim Can&#39;t Swim</description>
+      <pubDate>Tue, 15 Jun 2021 01:22:37 +0000</pubDate>
+      <enclosure url="https://ychen428.github.io/podsync/podsync/F8orsIP0bCQ.mp3" length="15764229" type="audio/mpeg"></enclosure>
+      <itunes:author>Yuting Chen: Podsync</itunes:author>
+      <itunes:subtitle>The Case of Andy B.</itunes:subtitle>
+      <itunes:summary><![CDATA[“I’m glad to be getting out of this place.”
+To hear the other side - https://www.dinkhellermovie.com
+Narrator - https://www.youtube.com/user/kizzume
+*Music* 
+Intro - https://youtu.be/oLRNzEJr_MY 
+Outro - https://youtu.be/QJEXLz8gBR0
+Jim Can't Swim]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/F8orsIP0bCQ/default.jpg"></itunes:image>
+      <itunes:duration>24:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>HkRjIq8Cp2A</guid>
       <title>The Bizarre Case of Stephen McDaniel</title>
