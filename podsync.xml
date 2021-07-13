@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jul 2021 23:23:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 23:53:01 +0000</lastBuildDate>
     <pubDate>Sat, 12 Jun 2021 02:55:37 +0000</pubDate>
     <image>
       <url>https://ychen428.github.io/assets/img/penguin.png</url>
@@ -20,6 +20,37 @@
     <itunes:image href="https://ychen428.github.io/assets/img/penguin.png"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>cG8PXdTlDag</guid>
+      <title>AirPods Pro Review: Imperfectly Perfect!</title>
+      <link>https://youtube.com/watch?v=cG8PXdTlDag</link>
+      <description>AirPods Pro are the best non-best headphones you can buy.&#xA;Follow on Twitter: http://twitter.com/MKBHD&#xA;dbrand AirPods Pro: http://dbrand.com/airpods&#xA;SnazzyQ AirPods Review: https://youtu.be/h-589fDMvB4&#xA;&#xA;MKBHD Merch: http://shop.MKBHD.com&#xA;&#xA;Video Gear I use: http://kit.com/MKBHD/video-gear#recom...&#xA;Tech I&#39;m using right now: https://www.amazon.com/shop/MKBHD&#xA;&#xA;Intro Track: Muggsy Bogues by Alltta&#xA;Playlist of MKBHD Intro music: https://goo.gl/B3AWV5&#xA;&#xA;~&#xA;http://twitter.com/MKBHD&#xA;http://instagram.com/MKBHD&#xA;http://facebook.com/MKBHD</description>
+      <pubDate>Mon, 12 Jul 2021 23:38:55 +0000</pubDate>
+      <enclosure url="https://ychen428.github.io/podsync/podsync/cG8PXdTlDag.mp3" length="7975989" type="audio/mpeg"></enclosure>
+      <itunes:author>Yuting Chen: Podsync</itunes:author>
+      <itunes:subtitle>AirPods Pro Review: Imperfectly Perfect!</itunes:subtitle>
+      <itunes:summary><![CDATA[AirPods Pro are the best non-best headphones you can buy.
+Follow on Twitter: http://twitter.com/MKBHD
+dbrand AirPods Pro: http://dbrand.com/airpods
+SnazzyQ AirPods Review: https://youtu.be/h-589fDMvB4
+
+MKBHD Merch: http://shop.MKBHD.com
+
+Video Gear I use: http://kit.com/MKBHD/video-gear#recom...
+Tech I'm using right now: https://www.amazon.com/shop/MKBHD
+
+Intro Track: Muggsy Bogues by Alltta
+Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+~
+http://twitter.com/MKBHD
+http://instagram.com/MKBHD
+http://facebook.com/MKBHD]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/cG8PXdTlDag/default.jpg"></itunes:image>
+      <itunes:duration>9:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>s_jaU5V9FUg</guid>
       <title>Lawsuits That Actually Weren&#39;t Ridiculous</title>
@@ -70,7 +101,7 @@ Short links by pixelme.me (https://pxle.me/eagle)]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/s_jaU5V9FUg/default.jpg"></itunes:image>
       <itunes:duration>16:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
