@@ -1,6 +1,7 @@
 #!/bin/bash
 cd /app/data
-echo "$(git ls-files -o)" > /app/data/log.txt
+var =  $(git ls-files -o)
+printf %var
 git add .  
 git commit -m "update feed" 
 git push
